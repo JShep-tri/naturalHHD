@@ -26,7 +26,6 @@ import numpy as np
 from scipy import signal, spatial, integrate
 
 import shutil, tempfile
-import gsw
 from joblib import Parallel, delayed
 
 import logging
